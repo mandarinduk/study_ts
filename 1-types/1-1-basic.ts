@@ -35,7 +35,7 @@
   anything = 0;
   anything = "any";
 
-  // void - 함수에서 아무 값도 return하지 않을 때
+  // void - 함수에서 아무 값도 return하지 않을 때, 생략 가능
   function print(): void {
     console.log("print");
     return;
